@@ -1,4 +1,7 @@
-#OS
+# Zip
+*.zip
+
+# OS
 .DS_Store
 .tmp
 
